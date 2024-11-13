@@ -23,7 +23,7 @@ def turno(jugador, casillas):
     # Avanzar el jugador
     jugador['posicion'] += dado
     
-    # Verificar si ha alcanzado o superado la casilla 63
+    # Verificar si ha alcanzado o superado la casilla 100
     if jugador['posicion'] >= casillas:
         jugador['posicion'] = casillas
         print("¡" , jugador['nombre'] , " ha llegado a la última casilla y ha ganado!")
