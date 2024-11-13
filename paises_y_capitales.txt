@@ -1,0 +1,27 @@
+Argentina,Buenos Aires
+Brasil,Brasilia
+Chile,Santiago
+Colombia,Bogotá
+Perú,Lima
+Uruguay,Montevideo
+Venezuela,Caracas
+Cuba,La Habana
+Estados Unidos,Washington D.C
+México,Ciudad de México
+Canada,Ottawa
+Bolivia,La Paz
+Ecuador,Quito
+El Salvador,San Salvador
+Panamá,Panamá
+Honduras,Tegucigalpa
+Nicaragua,Managua
+Jamaica,Kingston
+Costa Rica,San José
+Paraguay,Asunción
+Guayana Francesa,Cayena
+Belice,Belmopán
+Puerto Rico,San Juan
+Republica Dominicana,Santo Domingo
+Haití,Puerto Principe
+Guayana,Georgetown
+Surinam,Paramaribo
