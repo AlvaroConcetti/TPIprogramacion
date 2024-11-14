@@ -1,2 +1,2 @@
 # TPIprogramacion
-[Juego de la oca](#oca.py)
+[Juego de la oca](juego_oca)
